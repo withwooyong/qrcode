@@ -1,0 +1,9 @@
+qrcode:
+  width: 300
+  height: 300
+  bgColor: "WHITE"
+  bgImage: ""
+  content: "https://github.com/withwooyong/qrcode"
+  dir: "./images"
+  ext: ".png"
+  logo: "D:\\work\\qrcode\\src\\main\\resources\\static\\images\\github2.png"
